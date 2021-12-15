@@ -34,6 +34,8 @@
 - matpotlib - version3.4.3
 - Pandas - version 1.3.2
 - numpy - 1.21.2
+- statsmodels - 0.13.1
+- scikit-learn - 1.0.1
 
 
 ## Contact
